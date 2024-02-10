@@ -36,10 +36,16 @@ public class File_upload {
 
 		String queryname = qurs.getBasePath();
 		
+		
 		System.out.println("path name "+  "  "+ queryname);
 		
-		System.out.println("Jai Shree Ram");
-		System.out.println("Jai Shree Ram");
+
+		
+
+
+		
+		
+		
 
 
 	}
