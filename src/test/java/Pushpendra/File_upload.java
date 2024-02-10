@@ -39,6 +39,8 @@ public class File_upload {
 		System.out.println("path name "+  "  "+ queryname);
 		
 		System.out.println("Jai Shree Ram");
+		System.out.println("Jai Shree Ram");
+
 
 	}
 
