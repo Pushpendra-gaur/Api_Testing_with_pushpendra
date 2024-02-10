@@ -39,7 +39,7 @@ public class File_upload {
 		System.out.println("path name "+  "  "+ queryname);
 		
 		
-		
+		System.out.println("prem");
 		
 
 	}
